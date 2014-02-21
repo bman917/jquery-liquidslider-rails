@@ -1,6 +1,6 @@
 # Jquery::Liquidslider::Rails
 
-This gem packages Kevin Batdorf's jQuery-Liquidslider assets for the Rails asset pipeline.
+This gem packages [Kevin Batdorf's jQuery-Liquidslider](http://liquidslider.com/) assets for the Rails asset pipeline.
 
 ## Installation
 
